@@ -44,3 +44,4 @@ This sketch was created by Leigh Klotz (WA5ZNU) and is based on the Arduino WiFi
 ## References
 - https://el.wikipedia.org/wiki/Χρησμός
 - https://github.com/01Space/ESP32-C3-0.42LCD
+- https://github.com/oobabooga/text-generation-webui
