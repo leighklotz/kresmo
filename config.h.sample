@@ -1,0 +1,14 @@
+/**
+ * WiFi SSID and password
+ */
+
+char ssid[] = "xxyzzy";
+char pass[] = "123456";
+
+// if you don't want to use DNS (and reduce your sketch size)
+// use the numeric IP instead of the name for the server:
+//IPAddress server(74,125,232,128);  // numeric IP for Google (no DNS)
+
+const char server[] = "tensor.example.com";
+const int port = 5000;
+const char path[] = "/v1/generate";
