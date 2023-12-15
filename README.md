@@ -1,8 +1,8 @@
 # Kresmo
 
-Kresmo refers to Χρησμός, of ancient Greek oracular fame. Seekers cane Pythia, the Oracle at Delphi, to gain wisdom and advice, but often left with puzzling pronouncements that had ambigious interpretations.
+Kresmo refers to Χρησμός, of ancient Greek oracular fame. Seekers came to speak to Pythia, the Oracle at Delphi, to gain wisdom and advice, but often left with puzzling pronouncements that had ambigious interpretations.
 
-Now we now have Large Language Models, you don't have to chew bay leaves and inhale the osmic steam emerging from the chasm, unless of course you want to.
+Now that we now have Large Language Models, we don't have to chew bay leaves and inhale the osmic steam emerging from the chasm, unless of course you want to.
 
 Kresmo is an Arduino sketch that uses an OpenAI-compatible API to
 generate a random and brief pithy saying. The sketch uses the U8g2
