@@ -10,6 +10,8 @@ library for displaying text on an OLED screen, and the WiFi library
 for connecting to the internet. The ESP32-C3-0.42 module combines all
 this hardware into one tiny board.
 
+![prophecy.jpg](prophecy.jpg)
+
 ## Hardware Requirements
 - ESP32-C3-0.42 RISC-V CPU with Wifi annd LCD
 
